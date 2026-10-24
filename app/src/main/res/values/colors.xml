@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand red, sampled from the logo -->
+    <color name="pantry_red">#C8122E</color>
+    <color name="pantry_red_dark">#96001F</color>
+    <color name="pantry_red_light">#FDE8EB</color>
+    <!-- Complementary accent: fresh teal-green (opposite red on the colour wheel) -->
+    <color name="pantry_teal">#1B8A74</color>
+    <color name="pantry_teal_dark">#0F6655</color>
+    <!-- Light neutrals (warm, to sit well with red) -->
+    <color name="surface_warm">#FFF9F6</color>
+    <color name="ink">#2B1B1D</color>
+    <color name="ink_secondary">#6E5C5F</color>
+    <!-- Expiry warning: amber-brown so it's distinct from the red brand colour and readable on white -->
+    <color name="expiry_warning">#B45309</color>
+    <color name="launcher_background">#FFFFFF</color>
+</resources>

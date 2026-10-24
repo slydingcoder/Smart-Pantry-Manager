@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Empty-state illustration: two empty jars on a shelf with a sprout. Translucent fills suit the light theme. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="160dp" android:height="160dp" android:viewportWidth="160" android:viewportHeight="160">
+    <path android:fillColor="#1F1B8A74"
+        android:pathData="M80,16a64,64 0 1,0 0.01,0z" />
+    <path android:fillColor="#D9A066"
+        android:pathData="M24,114h112a4,4 0 0 1 4,4v6a4,4 0 0 1 -4,4H24a4,4 0 0 1 -4,-4v-6a4,4 0 0 1 4,-4z" />
+    <path android:fillColor="#331B8A74" android:strokeColor="#1B8A74" android:strokeWidth="3"
+        android:pathData="M42,78h30a4,4 0 0 1 4,4v28a4,4 0 0 1 -4,4H42a4,4 0 0 1 -4,-4V82a4,4 0 0 1 4,-4z" />
+    <path android:fillColor="#1B8A74"
+        android:pathData="M40,68h34a2,2 0 0 1 2,2v6H38v-6a2,2 0 0 1 2,-2z" />
+    <path android:fillColor="#331B8A74" android:strokeColor="#1B8A74" android:strokeWidth="3"
+        android:pathData="M90,60h30a4,4 0 0 1 4,4v46a4,4 0 0 1 -4,4H90a4,4 0 0 1 -4,-4V64a4,4 0 0 1 4,-4z" />
+    <path android:fillColor="#1B8A74"
+        android:pathData="M88,50h34a2,2 0 0 1 2,2v6H86v-6a2,2 0 0 1 2,-2z" />
+    <path android:fillColor="#0F6655"
+        android:pathData="M128,114c0,-8 3,-14 8,-18c0,8 -3,14 -8,18zM128,114c0,-6 -3,-11 -8,-14c0,6 3,11 8,14z" />
+    <path android:strokeColor="#0F6655" android:strokeWidth="2.5" android:strokeLineCap="round"
+        android:pathData="M128,114v-12" />
+</vector>
